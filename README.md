@@ -1,6 +1,6 @@
 # CasaPose
 Pose Detection using OpenPose
-
+model_openpose18 : https://drive.google.com/file/d/1SqXj8i3An_yHah1duESUnKJbNUiY9AGg/view?usp=sharing </br>
 output_openpose18 : https://drive.google.com/drive/folders/15nOMh97bnglwGJzGLTnuP7Gw0rSVEFr2?usp=sharing
 
 
