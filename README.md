@@ -5,7 +5,7 @@ output_openpose18 : https://drive.google.com/drive/folders/15nOMh97bnglwGJzGLTnu
 
 
 For OpenPose25:
-to download the dependencies:
+to download the dependencies:</br>
 
 conda env create -n tf2_openpose -f environment.lock.yml`
 - Or install using `requirements.txt`
